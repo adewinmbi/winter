@@ -41,8 +41,8 @@ What materials will you need for your project? Where will you get them? How much
 | 16 Gauge 25' Galvanized Steel Wire | [Amazon](https://www.amazon.com/gp/product/B000BPDBFU/ref=ox_sc_act_title_1?smid=A2150DGDKVIGRN&psc=1) | $5.97 |
 | LiPo Battery Charger | [Amazon](https://www.amazon.com/SUPULSE-Battery-Charger-7-4-11-1V-Charger%EF%BC%88B3V2%EF%BC%89/dp/B099K8XFG6/ref=sr_1_7?crid=21ELYSMIFDIE5&keywords=lipo+battery+charger&qid=1673050100&sprefix=lipo+battery+charger%2Caps%2C172&sr=8-7) | $11.99 |
 | LiPo Battery Capacity Checker | [Amazon](https://www.amazon.com/RC-CellMeter-7-Digital-Capacity-Controller/dp/B0744LVX76/ref=sr_1_3?crid=UXJJAE7FOKHN&keywords=lipo+battery+checker&qid=1673050257&sprefix=lipo+battery+check%2Caps%2C160&sr=8-3) | $9.99 |
-| 5mm Carbon Fiber Tubes | [Amazon](https://www.amazon.com/Carbon-Fiber-400mm-Length-Matte/dp/B091Z4534S/ref=sr_1_5?crid=2BPDJYHP6MF40&keywords=5+mm+carbon+fiber+rod&qid=1673050334&sprefix=5+mm+carbon+fiber+r%2Caps%2C157&sr=8-5](https://www.amazon.com/Carbon-3-0x1-5x300mm-pultrusion-Quadcopter-Airplanes/dp/B0878DF82R/ref=sr_1_3?crid=1XN0I6FVR5QP3&keywords=3mm%2Bcarbon%2Bfiber%2Btubes&qid=1676136846&sprefix=3mm%2Bcarbon%2Bfiber%2Btubes%2Caps%2C179&sr=8-3&th=1) | $20.95 |
-| 3mm Carbon Fiber Tubes | [Amazon](https://www.amazon.com/Carbon-Fiber-Airplane-Matte-400mm/dp/B08R9DNX83/ref=sr_1_10?crid=T8V3VXZJSMTT&keywords=3+mm+carbon+fiber+rod&qid=1673050529&sprefix=3+mm+carbon+fiber+rod%2Caps%2C141&sr=8-10](https://www.amazon.com/gp/product/B09415SPD7/ref=ox_sc_act_title_1?smid=A3IW91RO6GTANJ&th=1) | $11.95 |
+| 5mm Carbon Fiber Tubes | [Amazon](https://www.amazon.com/gp/product/B0878DF82R/ref=ox_sc_act_title_2?smid=A3IW91RO6GTANJ&psc=1) | $20.95 |
+| 3mm Carbon Fiber Tubes | [Amazon](https://www.amazon.com/gp/product/B09415SPD7/ref=ox_sc_act_title_1?smid=A3IW91RO6GTANJ&psc=1) | $11.95 |
 | 9g Micro Metal Gear Servo | [Amazon](https://www.amazon.com/MG90S-Servo-Motor-Helicopter-Arduino/dp/B07L6FZVT1/ref=sr_1_8?crid=342AWZ9RX03Q0&keywords=micro%2Bservo&qid=1673051618&sprefix=micro%2Bserv%2Caps%2C149&sr=8-8&th=1) | $14.98 |
 | New Shipping | Amazon | Free |
 | New Tax | Amazon | $3.30 |
